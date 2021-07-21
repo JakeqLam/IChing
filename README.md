@@ -1,3 +1,3 @@
 # IChing
 
-This was my capstone project and all of my commits are on my schools GitLab.
+This was my capstone project and all of the Git history is on my schools GitLab.
